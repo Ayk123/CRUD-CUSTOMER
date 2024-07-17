@@ -1,7 +1,12 @@
+CUSTOMER CRUD SIMPLE WEB APP
+
+Built in Laravel, Inertia.Js, ReactJS, TailwindCSS and PostgreSQL
+
 # clone the repo
 
 # Open folder on your code editor and open terminal and run these commands
 composer install
+
 npm install
 
 # create a database 
